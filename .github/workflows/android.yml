@@ -1,4 +1,4 @@
-name: Android Build
+name: RDX Mamunn
 
 on:
 workflow_dispatch:
